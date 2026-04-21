@@ -1,0 +1,6 @@
+# Ollama responses (ne idu na GitHub)
+responses/
+
+# Python cache
+__pycache__/
+*.pyc
